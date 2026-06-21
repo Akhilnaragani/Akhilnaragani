@@ -22,11 +22,10 @@
 
 ![Location](https://img.shields.io/badge/📍%20Warangal-Telangana%2C%20India-5b21b6?style=flat-square)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-akhilnaragani.dev-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/akhilnaragani)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Naragani-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilnaragani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Naragani-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/akhilnaragani](https://www.linkedin.com/in/akhil-naragani-450b9b281/))
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-akhilnaragani%40gmail.com-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilnaragani@gmail.com)
+[![Email](https://img.shields.io/badge/Email-akhilnaragani%40gmail.com-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilb490@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-akhilnaragani-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilnaragani)
 
